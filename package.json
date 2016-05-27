@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jawandarajbir/react-express/issues"
   },
-  "homepage": "https://github.com/jawandarajbir/react-express#readme"
+  "homepage": "https://github.com/jawandarajbir/react-express#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
