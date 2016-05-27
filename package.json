@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/jawandarajbir/react-express#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "browser-sync": "^2.12.10",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.29"
   }
 }
