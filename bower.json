@@ -1,0 +1,18 @@
+{
+  "name": "react-express",
+  "description": "Simple starter project to explore React with Express",
+  "main": "index.js",
+  "authors": [
+    "Rajbir Jawanda <jawandarajbir@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jawandarajbir/react-express",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
